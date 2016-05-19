@@ -1,0 +1,17 @@
+cc59884 CHI-WEN CHENG
+
+CS384G 2016 Spring Project1: Impressionist
+
+1. Install and Run
+	Install: make
+	Run:	./impressionist &
+
+2. Special Note
+	a.	very user friendly user interface, user and directly choose 
+		filter type and application will set all parameter to his 
+		best understand. Filter UI also highlights the kernel output
+		position and deactivate those are not allowed to used (by
+		setting the Column or Row size of Filter)
+
+	b.	support automatically angle setting with perpendicular to 
+		original image gradient

@@ -1,0 +1,15 @@
+//Chi-Wen Cheng, cc59884, CS384G 2016 Spring, Project 3
+
+usage:
+	cd src/
+	make all
+	make drun
+
+you should see a red torus at first.
+
+Program Control:
+	click s+"NUMBER" to switch shader
+	right click mouse to choose bumpmap or texture etc
+	press b or B to adjust bump scale
+	left mouse drag to move view 
+	ctrl+left clock to spin the object
